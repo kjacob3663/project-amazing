@@ -1,3 +1,8 @@
+/**
+The class RecursiveStrategy provides the Template Methods for the classes Kruskal and RecursiveBacktracker.
+The methods setUpStructure() and basicMode() are shared among Kruskal and RecursiveBacktracker and therefore implemented.
+The methods huntMode() and handleCases() differ and therefore remain abstract here. 
+*/
 import java.util.ArrayList;
 import java.util.Stack;
 import java.util.concurrent.ThreadLocalRandom;
