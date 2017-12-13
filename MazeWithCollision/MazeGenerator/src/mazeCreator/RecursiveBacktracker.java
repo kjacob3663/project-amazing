@@ -2,6 +2,8 @@ package mazeCreator;
 /** 
  * This class implements the Recursive Backtracking algorithm for creating mazes.
  * It creates a long winding path with few dead ends.
+ * 
+ * @author AmazingGroup
  */
 
 import java.util.ArrayList;

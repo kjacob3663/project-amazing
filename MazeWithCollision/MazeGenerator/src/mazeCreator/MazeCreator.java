@@ -1,9 +1,11 @@
 package mazeCreator;
 /**
- * @author AmazingGroup 
- * This class represents the Strategy interface. Which
- * makes the maze class(context) independent on how the maze algorithms
+ * This class represents the Strategy interface. It 
+ * makes the class Maze (=Context) independent on how the maze algorithms
  * are implemented.
+ * 
+ * @author AmazingGroup 
+ * 
  */
 
 public interface MazeCreator {

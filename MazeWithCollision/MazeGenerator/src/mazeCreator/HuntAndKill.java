@@ -3,6 +3,7 @@ package mazeCreator;
 /** 
  * This class implements the Hunt and Kill algorithm for creating mazes.
  * It implements the concrete steps of the Template Method in the class RecursiveStrategy.
+  *@author AmazingGroup
   */
 
 import java.util.ArrayList;

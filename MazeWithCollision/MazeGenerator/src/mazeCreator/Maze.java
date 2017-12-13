@@ -3,6 +3,7 @@ package mazeCreator;
 /**
  * Stores and manages entire mazes consisting of walls and cells
  * 
+ * @author AmazingGroup
  */
 
 import processing.core.PApplet;
