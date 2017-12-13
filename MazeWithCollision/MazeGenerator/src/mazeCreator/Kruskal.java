@@ -1,3 +1,4 @@
+package mazeCreator;
 
 /** 
  * This class implements the Kruskal algorithm for creating mazes. It implements the

@@ -1,4 +1,4 @@
-
+package mazeCreator;
 /**
  * The class Cell is the basic entity a maze consists of.
  */

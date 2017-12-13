@@ -1,3 +1,4 @@
+package mazeCreator;
 /**
  * This class represents the walls in the maze grid. There exists walls 
  * on all outer edges and between each pair of adjacent cells.

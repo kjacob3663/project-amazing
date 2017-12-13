@@ -1,3 +1,4 @@
+package mazeCreator;
 /**
  * @author AmazingGroup 
  * This class represents the Strategy interface. Which

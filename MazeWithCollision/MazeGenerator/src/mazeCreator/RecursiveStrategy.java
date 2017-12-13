@@ -1,3 +1,4 @@
+package mazeCreator;
 /**
 The class RecursiveStrategy provides the Template Methods for the classes Kruskal and RecursiveBacktracker.
 The methods setUpStructure() and basicMode() are shared among Kruskal and RecursiveBacktracker and therefore implemented.

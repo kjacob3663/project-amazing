@@ -1,3 +1,4 @@
+package mazeCreator;
 
 /** 
  * This class implements the Hunt and Kill algorithm for creating mazes.
